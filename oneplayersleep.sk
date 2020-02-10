@@ -1,0 +1,5 @@
+On Bed Enter:
+	broadcast "&b%player% is now sleeping!"
+	wait 80 ticks
+	set time to 07:00
+	wait 4 ticks
